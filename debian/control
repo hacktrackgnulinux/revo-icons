@@ -1,0 +1,14 @@
+Source: revo-icons
+Section: gnome
+Priority: optional
+Maintainer: HackTrack Team (HackTrack) <team@hacktracklinux.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.7
+Homepage: https://github.com/hacktrackgnulinux/revo-icons
+Vcs-Browser: https://github.com/hacktrackgnulinux/revo-icons.git
+
+Package: revo-icons
+Architecture: i386 amd64
+Depends: revo-themes
+Description: HackTrack Icons for MATE Editions.
+ Paket secara bawaan berupa GTK Theme.

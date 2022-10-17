@@ -13,7 +13,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 package=revo-icons
-version="revo-icons (2022.1)"
+version="revo-icons (2022.2)"
 figlet $package
 echo " Set Remote... "
 git remote set-url origin git@github.com:hacktrackgnulinux/$package.git

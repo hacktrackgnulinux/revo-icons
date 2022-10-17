@@ -1,3 +1,10 @@
+revo-icons (2022.2) return; urgency=medium
+
+  * Pengepakan paket buat rilis "return" stable
+  * Penambahan Icons Revo Dark
+
+ -- HackTrack Team (HackTrack) <team@hacktracklinux.org>  Mon, 17 Oct 2022 18:14:38 +0700 
+ 
 revo-icons (2022.1) return; urgency=medium
 
   * Pengepakan paket buat rilis "return" stable
